@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import logo from '../logo.svg';
 import { Navbar, Jumbotron, Button } from 'react-bootstrap';
-import 'bootstrap/dist/css/bootstrap.css';
-import 'bootstrap/dist/css/bootstrap-theme.css';
-import './stylesheets/css/App.css';
+import '../stylesheets/css/App.css';
 
 
 class App extends Component {
